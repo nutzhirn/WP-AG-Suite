@@ -8,7 +8,7 @@
 
 ## Dashboard
 
-![WP-AG Suite Dashboard](screenshots/dashboard.png)
+![WP-AG Suite Dashboard](assets/banner.png)
 
 ## Modulare Werkzeuge für WordPress
 
