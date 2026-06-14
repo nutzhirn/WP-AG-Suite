@@ -1,5 +1,0 @@
-GPL-2.0-or-later
-
-WP-AG Suite and related documentation are intended to be released under the GNU General Public License version 2 or later.
-
-This repository edition is a documentation and project-structure starter package.
