@@ -14,6 +14,12 @@ WP-AG Suite ist eine modulare Open-Source-Werkzeugsammlung für WordPress. Das P
 
 Die Suite richtet sich an Website-Betreiber, Vereine, NGOs, Bildungseinrichtungen, Administratoren, Agenturen und Entwickler, die WordPress professioneller, transparenter und wartbarer betreiben möchten.
 
+## Warum WP-AG Suite?
+
+Viele WordPress-Websites verwenden eine Vielzahl einzelner Plugins unterschiedlicher Hersteller. Dies führt häufig zu unterschiedlichen Bedienkonzepten, Abhängigkeiten, Wartungsaufwand und erhöhten Kompatibilitätsrisiken.
+
+WP-AG Suite verfolgt einen anderen Ansatz: Mehrere Werkzeuge werden unter einer gemeinsamen Oberfläche zusammengeführt. Dadurch entstehen einheitliche Bedienabläufe, zentrale Verwaltung und eine bessere Integration der einzelnen Funktionen.
+
 ## Grundidee
 
 Viele WordPress-Websites bestehen aus einer Sammlung einzelner Plugins unterschiedlicher Hersteller. Dadurch entstehen unterschiedliche Bedienkonzepte, Abhängigkeiten, Wartungsaufwand und zusätzliche Risiken. WP-AG Suite verfolgt einen anderen Ansatz: Eine gemeinsame Oberfläche, einheitliche Bedienkonzepte und Werkzeuge, die zusammenarbeiten statt nebeneinander zu existieren.
@@ -27,6 +33,14 @@ Das bedeutet:
 - Datenschutzfreundliche Architektur.
 - WordPress-konforme Umsetzung.
 - Kostenfreie Bereitstellung als Open-Source-Projekt.
+
+## Projektstatus
+
+WP-AG Suite befindet sich in aktiver Entwicklung.
+
+Aktuelle Version: 2.3.7
+
+Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert.
 
 ## Aktuelle Module
 
@@ -46,6 +60,17 @@ Das bedeutet:
 - Artikelarchiv
 - ThemeCleaner
 - Object Cache Analyse
+
+## Funktionen
+
+- Website-Diagnose und Systemanalyse
+- Sicherheitsprüfung
+- Beitrags- und Seitenmigration
+- Medienverwaltung
+- PDF- und Dokumentenverwaltung
+- Backup-Unterstützung
+- WordPress-Werkzeuge für Administratoren
+- Performance- und Qualitätskontrolle
 
 ## Geplante Erweiterungen
 
@@ -95,10 +120,20 @@ Geplante Module:
 - Adressverwaltung
 - Socialiser
 
-## Kontakt
+## Voraussetzungen
+
+- WordPress 6.x
+- PHP 8.0 oder höher
+- Administratorrechte
+
+## Kontakt & Support
 
 Fragen, Fehlerberichte und Verbesserungsvorschläge:
 
 plugins@gradert.at
 
 Issues können direkt über GitHub gemeldet werden.
+
+## Lizenz
+
+WP-AG Suite wird als Open-Source-Software unter der GPL-Lizenz veröffentlicht.
