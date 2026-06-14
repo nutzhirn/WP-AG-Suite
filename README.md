@@ -12,6 +12,44 @@
 >
 > Kostenfrei, Open Source und in aktiver Entwicklung.
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Diagnose
+
+![Diagnose](screenshots/diagnose.png)
+
+### Beitragsimport
+
+![Beitragsimport](screenshots/beitragsimport.png)
+
+### BookViewer
+
+![BookViewer](screenshots/bookviewer.png)
+
+### MediaInspector
+
+![MediaInspector](screenshots/mediainspector.png)
+
+### BackupManager
+
+![MediaInspector](screenshots/backup-manager.png)
+
+### ObjectCache Analyse
+
+![MediaInspector](screenshots/objectcacheanalyse.png)
+
+### BackupManager
+
+![MediaInspector](screenshots/backup-manager.png)
+
+### Security Check
+
+![MediaInspector](screenshots/security-check.png)
+
 ## Modulare Werkzeuge für WordPress
 
 WP-AG Suite ist eine modulare Open-Source-Werkzeugsammlung für WordPress. Das Projekt bündelt Diagnose, Sicherheit, Migration, Medienverwaltung, Dokumentenverwaltung, Qualitätskontrolle und administrative Werkzeuge in einer gemeinsamen Oberfläche.
