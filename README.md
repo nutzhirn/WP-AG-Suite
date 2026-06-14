@@ -1,5 +1,15 @@
 # WP-AG Suite
 
+> Modulare Werkzeuge für WordPress
+
+![Version](https://img.shields.io/badge/version-0.9.0-blue)
+![License](https://img.shields.io/badge/license-GPL--2.0-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+WP-AG Suite ist eine modulare Open-Source-Werkzeugsammlung für WordPress.
+
+
+
 ## Modulare Werkzeuge für WordPress
 
 WP-AG Suite ist eine modulare Open-Source-Werkzeugsammlung für WordPress. Das Projekt bündelt Diagnose, Sicherheit, Migration, Medienverwaltung, Dokumentenverwaltung, Qualitätskontrolle und administrative Werkzeuge in einer gemeinsamen Oberfläche.
