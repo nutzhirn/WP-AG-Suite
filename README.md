@@ -63,3 +63,42 @@ WP-AG ist als Plattformfamilie gedacht:
 ## Lizenz
 
 GPL-2.0-or-later
+
+## Installation
+
+1. ZIP-Datei herunterladen
+2. In WordPress unter Plugins hochladen
+3. Plugin aktivieren
+4. Gewünschte Module aktivieren
+5. WP-AG Suite im Admin-Menü öffnen
+
+## Besonderheiten
+
+- Modulare Architektur
+- Lokale Datenverarbeitung
+- Datenschutzfreundlicher Ansatz
+- Kostenfrei und Open Source
+- Fokus auf Vereine, NGOs und Bildungsprojekte
+- Einfache Bedienung
+- Einheitliche Oberfläche statt vieler Einzelplugins
+
+## Roadmap
+
+Die geplante Weiterentwicklung ist in der ROADMAP.md dokumentiert.
+
+Geplante Module:
+
+- Image Resizer
+- Child Theme Generator
+- Activity Log
+- Performance & Diagnostics Center
+- Adressverwaltung
+- Socialiser
+
+## Kontakt
+
+Fragen, Fehlerberichte und Verbesserungsvorschläge:
+
+plugins@gradert.at
+
+Issues können direkt über GitHub gemeldet werden.
