@@ -16,9 +16,9 @@ Die Suite richtet sich an Website-Betreiber, Vereine, NGOs, Bildungseinrichtunge
 
 ## Grundidee
 
-Viele WordPress-Websites verwenden eine Vielzahl einzelner Plugins für Aufgaben, die organisatorisch zusammengehören. Dadurch entstehen unterschiedliche Bedienkonzepte, Abhängigkeiten, Wartungsaufwand und zusätzliche Risiken.
+Viele WordPress-Websites bestehen aus einer Sammlung einzelner Plugins unterschiedlicher Hersteller. Dadurch entstehen unterschiedliche Bedienkonzepte, Abhängigkeiten, Wartungsaufwand und zusätzliche Risiken. WP-AG Suite verfolgt einen anderen Ansatz: Eine gemeinsame Oberfläche, einheitliche Bedienkonzepte und Werkzeuge, die zusammenarbeiten statt nebeneinander zu existieren.
 
-WP-AG Suite verfolgt einen anderen Ansatz:
+Das bedeutet:
 
 - Eine gemeinsame Oberfläche.
 - Modulare Werkzeuge.
