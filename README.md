@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/license-GPL--2.0-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-## Dashboard
-
 ![WP-AG Suite Dashboard](assets/banner.png)
 
 > Aktuelle Version: 2.3.7
