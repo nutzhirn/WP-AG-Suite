@@ -51,6 +51,12 @@ Aktuelle Version: 2.3.7
 
 Der Schwerpunkt der kommenden Versionen liegt auf Migration, Medienverwaltung, Performanceanalyse, Diagnostik und der weiteren Vereinheitlichung der Benutzeroberfläche. Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert.
 
+## Download
+
+Die aktuelle Version kann über die GitHub Releases heruntergeladen werden.
+
+https://github.com/nutzhirn/WP-AG-Suite/releases
+
 ## Features
 
 ### Website-Diagnose & Analyse
@@ -136,6 +142,16 @@ Der Schwerpunkt der kommenden Versionen liegt auf Migration, Medienverwaltung, P
 - Transparente Funktionsweise
 - WordPress-konforme Umsetzung
 
+## Besonderheiten
+
+- Modulare Architektur
+- Lokale Datenverarbeitung
+- Datenschutzfreundlicher Ansatz
+- Kostenfrei und Open Source
+- Fokus auf Vereine, NGOs und Bildungsprojekte
+- Einfache Bedienung
+- Einheitliche Oberfläche statt vieler Einzelplugins
+
 ## Zielgruppen
 
 - Website-Betreiber
@@ -170,15 +186,6 @@ Der Schwerpunkt der kommenden Versionen liegt auf Migration, Medienverwaltung, P
 
 Die Roadmap umfasst unter anderem Seitenimport, erweiterte Migration, Kommentarimport, PDF-zu-BookViewer-Konvertierung, Avatar-Modul, Bildhandling, Akkordeon Generator, Image Resizer, Child Theme Generator, Activity Log / Audit Log, Adressverwaltung, Socializer, Performance & Diagnostics Center und einen Website Quality Report.
 
-## WP-AG Plattform
-
-WP-AG ist als Plattformfamilie gedacht:
-
-- WP-AG Suite: WordPress-Werkzeuge.
-- WP-AG Trial: Verwaltung von Border-Collie-Trials und Hütehundveranstaltungen.
-- WP-AG Verein: Vereins- und NGO-Verwaltung.
-- WP-AG Developer: Werkzeuge für Agenturen, Entwickler und Administratoren.
-
 ## Installation
 
 1. ZIP-Datei herunterladen
@@ -187,15 +194,14 @@ WP-AG ist als Plattformfamilie gedacht:
 4. Gewünschte Module aktivieren
 5. WP-AG Suite im Admin-Menü öffnen
 
-## Besonderheiten
+## WP-AG Plattform
 
-- Modulare Architektur
-- Lokale Datenverarbeitung
-- Datenschutzfreundlicher Ansatz
-- Kostenfrei und Open Source
-- Fokus auf Vereine, NGOs und Bildungsprojekte
-- Einfache Bedienung
-- Einheitliche Oberfläche statt vieler Einzelplugins
+WP-AG ist als Plattformfamilie gedacht:
+
+- WP-AG Suite: WordPress-Werkzeuge.
+- WP-AG Trial: Verwaltung von Border-Collie-Trials und Hütehundveranstaltungen.
+- WP-AG Verein: Vereins- und NGO-Verwaltung.
+- WP-AG Developer: Werkzeuge für Agenturen, Entwickler und Administratoren.
 
 ## Roadmap
 
@@ -227,9 +233,3 @@ Bugreports und Feature-Wünsche können per Mail oder direkt über GitHub Issues
 ## Lizenz
 
 WP-AG Suite wird als Open-Source-Software unter der GPL-2.0-or-later veröffentlicht.
-
-## Download
-
-Die aktuelle Version kann über die GitHub Releases heruntergeladen werden.
-
-https://github.com/nutzhirn/WP-AG-Suite/releases
