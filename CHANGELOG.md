@@ -1,16 +1,16 @@
 # Changelog
 
-All notable changes to WP-AG Suite will be documented in this file.
+Alle wesentlichen Änderungen an der WP-AG Suite werden in dieser Datei dokumentiert.
 
-The project follows a continuous development model. Version numbers do not necessarily indicate feature completeness but reflect the current development state of the suite.
+Die WP-AG Suite befindet sich in aktiver Entwicklung. Versionsnummern spiegeln den jeweiligen Entwicklungsstand wider und nicht zwingend den Funktionsumfang des Gesamtprojekts.
 
 ## [2.3.7] - 2026-06-14
 
-### Initial Public Release
+### Erstes öffentliches Release
 
-First public GitHub release of WP-AG Suite.
+Erste öffentliche Veröffentlichung der WP-AG Suite auf GitHub.
 
-### Added
+### Enthaltene Module
 
 - Dashboard
 - Diagnose
@@ -29,21 +29,59 @@ First public GitHub release of WP-AG Suite.
 - ThemeCleaner
 - Object Cache Analyse
 
-### Features
+### Enthaltene Funktionen
 
-- Website diagnostics and health checks
-- Security analysis
-- WordPress content migration tools
-- Author mapping for imports
-- Media management and cleanup tools
-- PDF and document management
-- BookViewer integration
-- Revision management
-- Backup support
-- Object cache analysis
-- Unified modular administration interface
+#### Website-Diagnose & Analyse
 
-### Documentation
+- Analyse der WordPress-Installation
+- PHP- und Serverinformationen
+- Systemstatus auf einen Blick
+- Website-Gesundheitsprüfung
+- Objekt-Cache-Analyse
+- Fehler- und Warnhinweise
+
+#### Sicherheit
+
+- Sicherheitsprüfung der WordPress-Installation
+- Erkennung typischer Sicherheitsrisiken
+- Hinweise zu Härtungsmaßnahmen
+- Sicherheitsrelevante Konfigurationskontrolle
+
+#### Migration & Import
+
+- Beitragsimport zwischen WordPress-Installationen
+- Autoren-Mapping
+- Medienimport
+- Duplikaterkennung
+- Importprotokolle
+
+#### Medienverwaltung
+
+- Analyse der Mediathek
+- Erkennung nicht verwendeter Medien
+- Archivierung ungenutzter Dateien
+- Wiederherstellung archivierter Medien
+
+#### Dokumentenverwaltung
+
+- PDF-Verwaltung
+- BookViewer-Integration
+- Digitale Dokumentenbibliotheken
+- Dokumentenvorschau
+
+#### Inhalte & Redaktion
+
+- Artikelarchiv
+- Erweiterte Beitragswerkzeuge
+- Revisionsverwaltung
+
+#### Wartung & Administration
+
+- Backup-Unterstützung
+- Theme-Bereinigung
+- Verwaltungswerkzeuge
+
+### Dokumentation
 
 - README
 - ROADMAP
@@ -52,7 +90,7 @@ First public GitHub release of WP-AG Suite.
 - CODE_OF_CONDUCT
 - VISION
 
-### License
+### Lizenz
 
 - GPL-2.0-or-later
 
@@ -60,14 +98,14 @@ First public GitHub release of WP-AG Suite.
 
 ## [Unreleased]
 
-### Planned
+### Geplant
 
 #### Migration & Import
 
 - Seitenimport
 - Kommentarmigration
 - Erweiterte Website-Migration
-- PDF → BookViewer Integration
+- PDF-zu-BookViewer-Konvertierung
 
 #### Medienverwaltung
 
