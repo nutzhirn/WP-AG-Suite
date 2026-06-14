@@ -1,6 +1,6 @@
 # WP-AG Suite
 
-![Version](https://img.shields.io/badge/version-0.9.0-blue)
+![Version](https://img.shields.io/badge/version-2.3.7-blue)
 ![License](https://img.shields.io/badge/license-GPL--2.0-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -16,23 +16,28 @@ Die Suite richtet sich an Website-Betreiber, Vereine, NGOs, Bildungseinrichtunge
 
 ## Warum WP-AG Suite?
 
-Viele WordPress-Websites verwenden eine Vielzahl einzelner Plugins unterschiedlicher Hersteller. Dies führt häufig zu unterschiedlichen Bedienkonzepten, Abhängigkeiten, Wartungsaufwand und erhöhten Kompatibilitätsrisiken.
+Viele WordPress-Websites verwenden im Laufe der Zeit eine Vielzahl einzelner Plugins unterschiedlicher Hersteller. Jedes Plugin löst zwar ein konkretes Problem, bringt aber eigene Bedienkonzepte, Einstellungen, Abhängigkeiten und Updatezyklen mit sich. Mit zunehmender Anzahl installierter Erweiterungen steigen Wartungsaufwand, Komplexität und das Risiko von Inkompatibilitäten.
 
-WP-AG Suite verfolgt einen anderen Ansatz: Mehrere Werkzeuge werden unter einer gemeinsamen Oberfläche zusammengeführt. Dadurch entstehen einheitliche Bedienabläufe, zentrale Verwaltung und eine bessere Integration der einzelnen Funktionen.
+Gerade Administratoren, Vereine, NGOs, Agenturen und Betreiber größerer Websites wünschen sich häufig eine einheitlichere Lösung für wiederkehrende Aufgaben wie Diagnose, Migration, Medienverwaltung, Dokumentenmanagement oder Qualitätskontrolle.
+
+WP-AG Suite entstand aus dem Wunsch, häufig benötigte Werkzeuge in einer gemeinsamen Umgebung zusammenzuführen und damit die Verwaltung von WordPress-Websites einfacher, transparenter und konsistenter zu gestalten.
 
 ## Grundidee
 
-Viele WordPress-Websites bestehen aus einer Sammlung einzelner Plugins unterschiedlicher Hersteller. Dadurch entstehen unterschiedliche Bedienkonzepte, Abhängigkeiten, Wartungsaufwand und zusätzliche Risiken. WP-AG Suite verfolgt einen anderen Ansatz: Eine gemeinsame Oberfläche, einheitliche Bedienkonzepte und Werkzeuge, die zusammenarbeiten statt nebeneinander zu existieren.
+WP-AG Suite verfolgt einen modularen Ansatz. Anstatt viele voneinander unabhängige Einzelplugins zu installieren, werden verschiedene Werkzeuge unter einer gemeinsamen Oberfläche zusammengeführt. Die einzelnen Module bleiben unabhängig nutzbar, folgen jedoch denselben Bedienkonzepten und arbeiten nahtlos zusammen.
 
 Das bedeutet:
 
-- Eine gemeinsame Oberfläche.
-- Modulare Werkzeuge.
-- Transparente Entwicklung.
-- Lokale Datenverarbeitung, wo immer möglich.
-- Datenschutzfreundliche Architektur.
-- WordPress-konforme Umsetzung.
-- Kostenfreie Bereitstellung als Open-Source-Projekt.
+Eine gemeinsame und konsistente Benutzeroberfläche.
+Modulare Werkzeuge mit zentraler Verwaltung.
+Einheitliche Bedienkonzepte über alle Module hinweg.
+Lokale Datenverarbeitung, wo immer möglich.
+Datenschutzfreundliche Architektur.
+WordPress-konforme Umsetzung.
+Transparente Entwicklung und nachvollziehbare Funktionen.
+Kostenfreie Bereitstellung als Open-Source-Projekt.
+
+Ziel ist nicht, möglichst viele Funktionen in einem Plugin zu bündeln, sondern eine zusammenhängende Werkzeugplattform bereitzustellen, die typische Aufgaben rund um WordPress effizient und nachvollziehbar unterstützt.
 
 ## Projektstatus
 
@@ -41,6 +46,102 @@ WP-AG Suite befindet sich in aktiver Entwicklung.
 Aktuelle Version: 2.3.7
 
 Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert.
+
+## Features
+
+### Website-Diagnose & Analyse
+
+- Analyse der WordPress-Installation
+- PHP- und Serverinformationen
+- Systemstatus auf einen Blick
+- Erkennung häufiger Konfigurationsprobleme
+- Website-Gesundheitsprüfung
+- Objekt-Cache-Analyse
+- Fehler- und Warnhinweise
+
+### Sicherheit
+
+- Sicherheitsprüfung der WordPress-Installation
+- Erkennung typischer Sicherheitsrisiken
+- Hinweise zu Härtungsmaßnahmen
+- Sicherheitsrelevante Konfigurationskontrolle
+
+### Migration & Import
+
+- Beitragsimport zwischen WordPress-Installationen
+- Autoren-Mapping beim Import
+- Medienimport
+- Duplikaterkennung
+- Importprotokolle
+- Vorbereitung für Seitenimport
+- Vorbereitung für Kommentarmigration
+- Vorbereitung für vollständige Website-Migrationen
+
+### Medienverwaltung
+
+- Analyse der Mediathek
+- Erkennung nicht verwendeter Medien
+- Archivierung ungenutzter Dateien
+- Wiederherstellung archivierter Medien
+- Verwaltung großer Medienbestände
+
+### Dokumentenverwaltung
+
+- PDF-Verwaltung
+- BookViewer-Integration
+- Digitale Dokumentenbibliotheken
+- Dokumentenvorschau
+- Thematische Dokumentensammlungen
+
+### Inhalte & Redaktion
+
+- Artikelarchiv-Funktionen
+- Erweiterte Beitragswerkzeuge
+- Revisionsverwaltung
+- Content-Management-Hilfen
+- Redaktionelle Unterstützung
+
+### Backup & Wartung
+
+- Backup-Unterstützung
+- Wartungswerkzeuge
+- Bereinigungsfunktionen
+- Analyse technischer Altlasten
+- Theme- und Systempflege
+
+### Benutzerfreundlichkeit
+
+- Einheitliche Benutzeroberfläche
+- Modulare Architektur
+- Zentrale Modulverwaltung
+- Konsistente Bedienkonzepte
+- Übersichtliches Dashboard
+
+### Performance
+
+- Objekt-Cache-Analyse
+- Performance-Hinweise
+- Optimierungsempfehlungen
+- Vorbereitung für erweitertes Performance-Monitoring
+
+### Datenschutz & Transparenz
+
+- Lokale Datenverarbeitung, wo immer möglich
+- Datenschutzfreundliche Architektur
+- Open-Source-Entwicklung
+- Transparente Funktionsweise
+- WordPress-konforme Umsetzung
+
+### Zielgruppen
+
+- Website-Betreiber
+- Vereine und NGOs
+- Bildungseinrichtungen
+- Administratoren
+- Agenturen
+- Entwickler
+- WordPress-Power-User
+
 
 ## Aktuelle Module
 
@@ -84,10 +185,6 @@ WP-AG ist als Plattformfamilie gedacht:
 - WP-AG Trial: Verwaltung von Border-Collie-Trials und Hütehundveranstaltungen.
 - WP-AG Verein: Vereins- und NGO-Verwaltung.
 - WP-AG Developer: Werkzeuge für Agenturen, Entwickler und Administratoren.
-
-## Lizenz
-
-GPL-2.0-or-later
 
 ## Installation
 
@@ -136,4 +233,4 @@ Issues können direkt über GitHub gemeldet werden.
 
 ## Lizenz
 
-WP-AG Suite wird als Open-Source-Software unter der GPL-Lizenz veröffentlicht.
+WP-AG Suite wird als Open-Source-Software unter der GPL-2.0-or-later veröffentlicht.
