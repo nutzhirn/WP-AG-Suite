@@ -1,49 +1,95 @@
-# CHANGELOG
+# Changelog
 
-## 0.9.0 Repository Edition
+All notable changes to WP-AG Suite will be documented in this file.
 
-### Neu
+The project follows a continuous development model. Version numbers do not necessarily indicate feature completeness but reflect the current development state of the suite.
 
-- Erweiterte GitHub-Repository-Struktur.
-- README.md mit Projektüberblick.
-- VISION.md mit Plattformvision.
-- ROADMAP.md mit Gesamtroadmap.
-- Vollständige Dokumentationsstruktur für WP-AG Suite, WP-AG Trial, WP-AG Verein und WP-AG Developer.
-- CONTRIBUTING.md.
-- SECURITY.md.
-- SUPPORT.md.
-- FUNDING.md.
-- CODE_OF_CONDUCT.md.
-- GitHub Issue Templates.
-- GitHub Discussion Templates.
-- Modulübersicht für WP-AG Suite.
-- Separate Roadmaps für die geplanten Plattformteile.
+## [2.3.7] - 2026-06-14
 
-### Ziel
+### Initial Public Release
 
-Diese Version dient als vorbereitende Repository Edition für die Veröffentlichung auf GitHub.
+First public GitHub release of WP-AG Suite.
 
-## 0.3.0
+### Added
 
-### Neu
+- Dashboard
+- Diagnose
+- Security Check
+- Beitragsimport
+- BookViewer
+- MediaInspector
+- BackupManager
+- Contacts
+- PostTools
+- RevisionManager
+- FontForce
+- MenuSearch
+- KatCloud
+- Artikelarchiv
+- ThemeCleaner
+- Object Cache Analyse
 
-- Erste strukturelle Repository-Dateien.
-- Kurze Roadmaps für Suite, Trial, Verein und Developer.
+### Features
 
-## 0.2.0
+- Website diagnostics and health checks
+- Security analysis
+- WordPress content migration tools
+- Author mapping for imports
+- Media management and cleanup tools
+- PDF and document management
+- BookViewer integration
+- Revision management
+- Backup support
+- Object cache analysis
+- Unified modular administration interface
 
-### Neu
+### Documentation
 
-- README.md.
-- ROADMAP.md.
-- CHANGELOG.md.
-- VISION.md.
-- CONTRIBUTING.md.
-- CODE_OF_CONDUCT.md.
-- LICENSE.txt.
+- README
+- ROADMAP
+- CONTRIBUTING
+- SECURITY
+- CODE_OF_CONDUCT
+- VISION
 
-## 0.1.0
+### License
 
-### Neu
+- GPL-2.0-or-later
 
-- Erste Starterdokumente für GitHub.
+---
+
+## [Unreleased]
+
+### Planned
+
+#### Migration & Import
+
+- Seitenimport
+- Kommentarmigration
+- Erweiterte Website-Migration
+- PDF → BookViewer Integration
+
+#### Medienverwaltung
+
+- Avatar-Modul
+- Bildhandling
+- Image Resizer
+
+#### Inhalte
+
+- Akkordeon Generator
+
+#### Administration
+
+- Activity Log / Audit Log
+- Adressverwaltung
+- Child Theme Generator
+
+#### Diagnose & Qualität
+
+- Performance & Diagnostics Center
+- Website Quality Report
+
+#### Kommunikation
+
+- Socialiser
