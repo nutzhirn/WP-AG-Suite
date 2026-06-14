@@ -8,6 +8,10 @@
 
 ![WP-AG Suite Dashboard](assets/banner.png)
 
+> Aktuelle Version: 2.3.7
+>
+> Kostenfrei, Open Source und in aktiver Entwicklung.
+
 ## Modulare Werkzeuge für WordPress
 
 WP-AG Suite ist eine modulare Open-Source-Werkzeugsammlung für WordPress. Das Projekt bündelt Diagnose, Sicherheit, Migration, Medienverwaltung, Dokumentenverwaltung, Qualitätskontrolle und administrative Werkzeuge in einer gemeinsamen Oberfläche.
@@ -28,24 +32,24 @@ WP-AG Suite verfolgt einen modularen Ansatz. Anstatt viele voneinander unabhäng
 
 Das bedeutet:
 
-Eine gemeinsame und konsistente Benutzeroberfläche.
-Modulare Werkzeuge mit zentraler Verwaltung.
-Einheitliche Bedienkonzepte über alle Module hinweg.
-Lokale Datenverarbeitung, wo immer möglich.
-Datenschutzfreundliche Architektur.
-WordPress-konforme Umsetzung.
-Transparente Entwicklung und nachvollziehbare Funktionen.
-Kostenfreie Bereitstellung als Open-Source-Projekt.
+- Eine gemeinsame und konsistente Benutzeroberfläche
+- Modulare Werkzeuge mit zentraler Verwaltung
+- Einheitliche Bedienkonzepte über alle Module hinweg
+- Lokale Datenverarbeitung, wo immer möglich
+- Datenschutzfreundliche Architektur
+- WordPress-konforme Umsetzung
+- Transparente Entwicklung und nachvollziehbare Funktionen
+- Kostenfreie Bereitstellung als Open-Source-Projekt
 
 Ziel ist nicht, möglichst viele Funktionen in einem Plugin zu bündeln, sondern eine zusammenhängende Werkzeugplattform bereitzustellen, die typische Aufgaben rund um WordPress effizient und nachvollziehbar unterstützt.
 
 ## Projektstatus
 
-WP-AG Suite befindet sich in aktiver Entwicklung.
+WP-AG Suite befindet sich in aktiver Entwicklung und wird kontinuierlich erweitert.
 
 Aktuelle Version: 2.3.7
 
-Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert.
+Der Schwerpunkt der kommenden Versionen liegt auf Migration, Medienverwaltung, Performanceanalyse, Diagnostik und der weiteren Vereinheitlichung der Benutzeroberfläche. Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert.
 
 ## Features
 
@@ -132,7 +136,7 @@ Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert
 - Transparente Funktionsweise
 - WordPress-konforme Umsetzung
 
-### Zielgruppen
+## Zielgruppen
 
 - Website-Betreiber
 - Vereine und NGOs
@@ -161,17 +165,6 @@ Neue Funktionen und geplante Erweiterungen werden in der ROADMAP.md dokumentiert
 - Artikelarchiv
 - ThemeCleaner
 - Object Cache Analyse
-
-## Funktionen
-
-- Website-Diagnose und Systemanalyse
-- Sicherheitsprüfung
-- Beitrags- und Seitenmigration
-- Medienverwaltung
-- PDF- und Dokumentenverwaltung
-- Backup-Unterstützung
-- WordPress-Werkzeuge für Administratoren
-- Performance- und Qualitätskontrolle
 
 ## Geplante Erweiterungen
 
@@ -229,8 +222,14 @@ Fragen, Fehlerberichte und Verbesserungsvorschläge:
 
 plugins@gradert.at
 
-Issues können direkt über GitHub gemeldet werden.
+Bugreports und Feature-Wünsche können per Mail oder direkt über GitHub Issues eingereicht werden.
 
 ## Lizenz
 
 WP-AG Suite wird als Open-Source-Software unter der GPL-2.0-or-later veröffentlicht.
+
+## Download
+
+Die aktuelle Version kann über die GitHub Releases heruntergeladen werden.
+
+https://github.com/nutzhirn/WP-AG-Suite/releases
